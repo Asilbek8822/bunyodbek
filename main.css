@@ -1,0 +1,20 @@
+.container{
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    background-color: red;
+    border-radius: 10px;
+    margin: 0 auto;
+    border: 2px double aqua;
+    margin-top: 20px;
+}
+.text{
+    word-spacing: 5px;
+    color: white;
+}
+.text-1{
+   word-spacing: 5px;
+}
+.alt{
+    text-decoration: none;
+}
